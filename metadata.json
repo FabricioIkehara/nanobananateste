@@ -1,0 +1,7 @@
+{
+  "name": "PictureMe AI Photo Booth",
+  "description": "Transform your photos with various AI-powered themes. See yourself through the decades, get professional headshots, try on new hairstyles, and more, all powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
